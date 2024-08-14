@@ -22,7 +22,6 @@
     width: 90%;
     height: 90%;
     background-color: white;
-
 }
 
 .header{
@@ -45,4 +44,14 @@
 
 .hobby-text{
     color: #FF7E42;
+}
+
+.container2{
+    max-width: 800px;
+    height: 400px;
+    background-color: #FFFDA9;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
 }
